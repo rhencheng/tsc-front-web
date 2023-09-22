@@ -1,0 +1,2 @@
+export * from "/Users/rencheng/workspase/new/tsc-web/internal/eslint-config/src/strict";
+export { default } from "/Users/rencheng/workspase/new/tsc-web/internal/eslint-config/src/strict";
